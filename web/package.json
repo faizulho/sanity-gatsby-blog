@@ -31,8 +31,8 @@
     "postcss-import": "12.0.1",
     "postcss-preset-env": "6.7.0",
     "prettier-eslint-cli": "5.0.0",
-    "react": "16.13.1",
-    "react-dom": "16.13.1",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
     "react-helmet": "6.1.0"
   },
   "dependencies": {
