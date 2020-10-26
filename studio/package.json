@@ -21,7 +21,7 @@
     "@sanity/default-layout": "1.150.8",
     "@sanity/default-login": "2.0.1",
     "@sanity/desk-tool": "1.150.8",
-    "@sanity/studio-hints": "1.150.8",
+    "@sanity/studio-hints": "2.0.5",
     "date-fns": "2.16.1",
     "prop-types": "15.7.2",
     "react": "16.14.0",
