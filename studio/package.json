@@ -18,7 +18,7 @@
     "@sanity/components": "2.0.7",
     "@sanity/core": "2.0.1",
     "@sanity/dashboard": "2.0.5",
-    "@sanity/default-layout": "1.150.8",
+    "@sanity/default-layout": "2.0.7",
     "@sanity/default-login": "2.0.1",
     "@sanity/desk-tool": "1.150.8",
     "@sanity/studio-hints": "2.0.5",
