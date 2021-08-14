@@ -15,7 +15,7 @@
     "@sanity/block-content-to-react": "3.0.0",
     "@sanity/image-url": "0.140.22",
     "date-fns": "2.23.0",
-    "dotenv": "8.2.0",
+    "dotenv": "10.0.0",
     "eslint": "7.32.0",
     "eslint-config-standard": "16.0.3",
     "eslint-config-standard-react": "11.0.1",
