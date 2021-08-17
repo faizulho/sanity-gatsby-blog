@@ -36,6 +36,6 @@
     "react-helmet": "6.1.0"
   },
   "dependencies": {
-    "gatsby-image": "3.10.0"
+    "gatsby-image": "3.11.0"
   }
 }
